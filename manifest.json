@@ -1,0 +1,9 @@
+{
+  "name":"Easy POS",
+  "short_name":"POS",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#fff",
+  "theme_color":"#0b74de",
+  "icons":[]
+}
